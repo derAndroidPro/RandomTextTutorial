@@ -1,6 +1,6 @@
 # RandomTextTutorial
 Hier seht ihr, wie ihr aus mehreren zuvor eingegebenen Texten einen Text per Zufall auswählen könnt.
-- Tutorial auf YouTube: 
+- Tutorial auf YouTube: http://youtu.be/3eRugkwBCas
 - Projekt für Android Studio
 
 <b>Screenshots:</b>
